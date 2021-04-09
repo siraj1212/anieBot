@@ -1,14 +1,14 @@
 {
-  "name": "DaisyX",
+  "name": "Amelia",
   "description": "?",
   "keywords": [
     "telegram",
     "Daisy",
     "plugin",
-    "telegram-DaisyX",
+    "telegram-amelia",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/Daisy-x",
+  "repository": "https://github.com/shiwabot/anieBot",
   "website": "daisyproject.studio",
   "success_url": "t.me/DaisyXUpdates",
   "buildpacks": [
