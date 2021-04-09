@@ -1,7 +1,7 @@
 # COPYRIGHT (C) 2021 BY LEGENDX22 AND PROBOYX
 
 # MADE BY LEGEND X AND TEAM LEGEND
-# MADE FOR LEGEND ROBOT & DAISYX
+# MADE FOR LEGEND ROBOT & Amelia 
 # FULL CREDITS TEAM LEGEND🔥🔥🔥
 # IF YOU KANG THIS THAN KEEP CREDITS
 # 1ST UPDATER FOR GROUP MANAGEMENT BOTS
@@ -121,7 +121,7 @@ async def upstream(ups):
     changelog = await gen_chlog(repo, f"HEAD..upstream/{ac_br}")
 
     if not changelog and not force_update:
-        await lol.edit("\nYour DaisyX  >>  **up-to-date**  \n")
+        await lol.edit("\nYour Amelia  >>  **up-to-date**  \n")
         repo.__del__()
         return
 
