@@ -81,7 +81,7 @@ async def get_start_func(message, strings, edit=False):
         ),
     )
     buttons.add(
-        InlineKeyboardButton(strings[" Amelia channel"], url="https://t.me/anie_news"),
+        InlineKeyboardButton(strings["  btn_channel"], url="https://t.me/anie_news"),
         InlineKeyboardButton("👥 Support Grup", url="https://t.me/Anierosupport"),
     )
     buttons.add(
