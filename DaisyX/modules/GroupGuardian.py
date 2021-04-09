@@ -440,7 +440,7 @@ async def del_profanity(event):
 
 __help__ = """
 <b> Group Guardian: </b>
-✪ Daisy can protect your group from NSFW senders, Slag word users and also can force members to use English
+✪ Amelia can protect your group from NSFW senders, Slag word users and also can force members to use English
 
 <b>Commmands</b>
  - /nsfwguardian <i>on/off</i> - Enable|Disable Porn cleaning
